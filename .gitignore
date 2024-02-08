@@ -74,3 +74,8 @@ toto$
 ^\.anjuta.*$
 ^TODO.tasks
 \.anjuta$
+
+
+# Outputs
+CMakeFiles
+out_cmake

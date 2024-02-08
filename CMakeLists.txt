@@ -6,8 +6,8 @@
 # There is a script called cmake.sh for your convenience.
 
 
-cmake_minimum_required(VERSION 2.4.6)
-cmake_policy(VERSION 2.6)
+cmake_minimum_required(VERSION 3.5.0)
+cmake_policy(VERSION 3.5)
 
 project (crrcsim)
 
